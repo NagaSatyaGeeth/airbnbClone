@@ -1,0 +1,23 @@
+.hero {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.img28 {
+	margin: 10rem 0 0 0rem;
+}
+
+.exp {
+	margin: 2rem 50rem 0 0;
+}
+
+.exp-heading {
+	font-size: 4rem;
+	font-weight: 600;
+}
+
+.exp-desc {
+	font-size: 2rem;
+	max-width: 42rem;
+}
