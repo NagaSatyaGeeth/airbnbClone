@@ -1,6 +1,5 @@
 import React from "react";
 import "./card.css";
-import swimmerImg from "/src/assets/image 12.png";
 import star from "/src/assets/Star 1.png";
 
 var cards = (props) => {

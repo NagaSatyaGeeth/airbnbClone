@@ -16,7 +16,7 @@ root.render(
 		<section className="cards-wrapper">
 			<Cards
 				status="SOLD OUT"
-				img="/src/assets/image 12.png"
+				img={swimmerImg}
 				rating="5.0"
 				noOfReviews="(6)"
 				country="USA"
@@ -25,7 +25,7 @@ root.render(
 			/>
 			<Cards
 				status="ONLINE"
-				img="/src/assets/wedpic.png"
+				img={weddingpic}
 				rating="5.0"
 				noOfReviews="(30)"
 				country="USA"
@@ -34,7 +34,7 @@ root.render(
 			/>
 			<Cards
 				status="ONLINE"
-				img="/src/assets/mounbike.png"
+				img={bike}
 				rating="4.8"
 				noOfReviews="(2)"
 				country="USA"
