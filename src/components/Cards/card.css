@@ -17,6 +17,11 @@
 	padding: 0.2rem 1rem;
 }
 
+.swimmer-pic {
+	height: 34.3rem;
+	width: 26.4rem;
+}
+
 .rating {
 	align-self: flex-start;
 	display: flex;
