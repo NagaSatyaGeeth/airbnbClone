@@ -19,10 +19,7 @@ var cards = (props) => {
 				</div>
 			)}
 			<div className="card-pic">
-				<img
-					src={`src/assets/${props.item.coverImg}`}
-					className="activity-pic"
-				/>
+				<img src={`${props.item.coverImg}`} className="activity-pic" />
 			</div>
 			<div className="rating">
 				<div className="star-pic">
